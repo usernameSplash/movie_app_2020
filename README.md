@@ -17,3 +17,5 @@ usernameSplash's React Tutorial
 		- component is the js fucntion returning HTML.
 		- jsx is HTML in the javascript.
 		- one React app can render only one component at the time.
+		- I can send information to my component.
+		- components are able to recycle dinamically.
