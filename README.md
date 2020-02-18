@@ -23,3 +23,8 @@ usernameSplash's React Tutorial
 #### Dynamic Component Generation
 
 - use map method for making components dynamically
+
+
+### 02.18
+#### Rest
+- I moved my development environment to macOS, with new Macbook.
