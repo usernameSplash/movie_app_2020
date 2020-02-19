@@ -49,3 +49,4 @@ usernameSplash's React Tutorial
 - asynchronous method
   - async
   - await
+- fetch -> store movie data in App Class Component -> render by Movie Function Component
