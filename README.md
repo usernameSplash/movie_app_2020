@@ -28,3 +28,18 @@ usernameSplash's React Tutorial
 ### 02.18
 #### Rest
 - I moved my development environment to macOS, with new Macbook.
+
+### 02.19
+#### Protection
+- type checking by 'PropTypes'
+#### Class Components and State
+- React executes the render method in all my class components, automatically.
+  - Class componetns have state(data)
+  - setState method calls render method everytime. : React renders again.
+- Component Life Cycle
+  - the way React creates new components, kills some components.
+  - constructor -> render -> componentDidMount -> componentDidUpdate -> componentWillUnmount……
+  - methods of React Component called after render()
+    - mounting : be borned
+    - updating : be modified, every time render method is called
+    - unmounting : be killed
