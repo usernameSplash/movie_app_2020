@@ -43,3 +43,9 @@ usernameSplash's React Tutorial
     - mounting : be borned
     - updating : be modified, every time render method is called
     - unmounting : be killed
+#### Fetching Data from API
+- fetch
+  - axios
+- asynchronous method
+  - async
+  - await
