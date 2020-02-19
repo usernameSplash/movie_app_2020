@@ -50,3 +50,5 @@ usernameSplash's React Tutorial
   - async
   - await
 - fetch -> store movie data in App Class Component -> render by Movie Function Component
+#### Styling
+- Movie.css
