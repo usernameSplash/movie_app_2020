@@ -70,3 +70,5 @@ usernameSplash's React Tutorial
 
 -   Navigation
 -   Movie Detail
+
+## Finished (02/23)
