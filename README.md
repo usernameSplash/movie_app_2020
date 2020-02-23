@@ -58,17 +58,15 @@ usernameSplash's React Tutorial
     -   await
 -   fetch -> store movie data in App Class Component -> render by Movie Function Component
 
-#### Styling
-
--   Movie.css
-
 ### 02.23
 
 #### Adding Routes
 
 -   Home
 -   About
+-   Movie Detail
 
 #### Control Routes
 
 -   Navigation
+-   Movie Detail
